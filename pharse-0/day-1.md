@@ -1,9 +1,9 @@
 # AI-Training
 
-# Book: Grokking Machine Learning
-# Chapter 1
+## Book: Grokking Machine Learning
+## Chapter 1
 
-# AI vs ML
+### AI vs ML
 -- AI
 - AI is the tasks a computer can make decision, and usually, AI will make a decision by mimicking solve problem of humans.
 
