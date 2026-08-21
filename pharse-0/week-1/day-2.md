@@ -9,7 +9,7 @@
 ### Foundation models
 #### Language models
 -A language model is a model that can predict information based on the context of one or more languages.
-ex: When the context is: "My favorite color is ___", ta language model that has learned English will predict "blue" rather than "car" because it uses the context of the sentence to predict the most likely word.
+ex: When the context is: "My favorite color is ___", a language model that has learned English will predict "blue" rather than "car" because it uses the context of the sentence to predict the most likely word.
 #### The statistical nature of language
 - Using statistics to analyze language has existed for a long time, ex: Sherlock Holmes used the frequency of letters in English to decode a message. Later, Claude Shannon developed more sophisticated statistical methods to model English. Concepts such as entropy were introduced and are still important in modern language modeling.
 #### Token
