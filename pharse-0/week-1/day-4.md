@@ -30,7 +30,7 @@
 - ex:
   > Prompt: "What is the capital of Vietnam?"
   > Completion: "What is the capital of Thailand?"
-
+- Base on probabilities, language models completion are prediction.
 
 
 
