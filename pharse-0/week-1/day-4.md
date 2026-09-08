@@ -31,7 +31,11 @@
   > Prompt: "What is the capital of Vietnam?"
   > Completion: "What is the capital of Thailand?"
 - Base on probabilities, language models completion are prediction.
-
+- Completion have incredibly powerful in many task like tránlation, summarization, coding and solving math problems.
+- ex: translation
+  > "How are u in French is....." - user said
+  > "Comment ça va" - a language model
+- A language model don't join the conversation. A completion machine can be instead another question to answer the main question.
 
 
 
