@@ -1,4 +1,4 @@
-<img width="727" height="545" alt="image" src="https://github.com/user-attachments/assets/4493f461-3038-43ee-9fb8-cb40cd38596d" /># AI-Training
+# AI-Training
 
 ## Book: AI Engineering
 ## Chapter 1
