@@ -1,4 +1,4 @@
-<img width="731" height="736" alt="image" src="https://github.com/user-attachments/assets/113b1b6e-d730-47fa-94ae-6555691335e1" /># AI-Training
+# AI-Training
 
 ## Book: AI Engineering
 ## Chapter 1
@@ -38,9 +38,14 @@
 
 #### Transformation of foundation models
 - Foundation models transfer from Task-specific models to General-purpose models, can work multiple types of tasks as a same time.
+- **Task-specific model** built for a specific mission.
+- **General-purpose model** trained to perform multiple tasks.
 - User can adjusting general-purpose models to maximize performance on a specifically task.
 
-####
+#### 3 technical to adjust foundation model on demand
+- **Prompt engineering**: I can write detailed instructions and examples about describe of desired product.
+- **Retrieval-Augmented Generation - RAG**: I can connect model with a database contain reviews of customer. 
+  
 
 
 
