@@ -44,7 +44,18 @@
 
 #### 3 technical to adjust foundation model on demand
 - **Prompt engineering**: I can write detailed instructions and examples about describe of desired product.
-- **Retrieval-Augmented Generation - RAG**: I can connect model with a database contain reviews of customer. 
+- **Retrieval-Augmented Generation - RAG**: I can connect model with a database contain reviews of customer.
+- **Fine-tuning**: I can continue training the model on a dataset comprising high-quality product descriptions.
+
+### Adapting Existing Models
+
+- Adapting an existing powerful model is usually easier, faster, and cheaper than building a model from scratch. Foundation models reduce AI development costs and time to market.
+- However, task-specific models still have advantages. They may be smaller, faster, and cheaper to use.
+
+### Build or Buy Decision
+- AI teams must decide whether to build their own model or use an existing model.
+- The decision depends on factors such as cost, data, time, performance, control, and deployment requirements.
+
   
 
 
