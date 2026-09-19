@@ -9,7 +9,7 @@
 
 #### Factor 1: General-purpose AI capabilities
 - Foundation models can be work various types of tasks.
-                   Foundation Model
+   ```           Foundation Model
                        ↓
        ┌───────────────┼───────────────┐
        ↓               ↓               ↓
@@ -26,7 +26,7 @@
 #### Factor 3: Low entrance barrier to building AI applications
 - Model as a service help build applications became to easier.
 - Models provided through API, API receive question and reply result for user.
-                          App
+```                       App
                            ↓
                           API
                            ↓
