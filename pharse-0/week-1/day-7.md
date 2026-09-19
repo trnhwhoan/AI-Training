@@ -26,7 +26,7 @@
 #### Factor 3: Low entrance barrier to building AI applications
 - Model as a service help build applications became to easier.
 - Models provided through API, API receive question and reply result for user.
-```                       App
+  ```                     App
                            ↓
                           API
                            ↓
@@ -37,7 +37,7 @@
 #### Build from scratch & Build on top of foundation models
 - **Build from scratch** is build a model from scratch, need many data, GPUs, infrastructure, machine learning expertise, training time and money.
 - **Build on top of foundation models** is take an existing model and build application.
-                    GPT / Gemini / Claude
+  ```              GPT / Gemini / Claude
                             ↓
                            API
                             ↓
