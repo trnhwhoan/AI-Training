@@ -83,13 +83,13 @@
 #### AI + Creative Work
 - AI can join many phase:
 ```
-                             Ý tưởng
+                              Idea
                                 ↓
                           AI brainstorm
                                 ↓
-                          AI tạo draft
+                          AI create draft
                                 ↓
-                          Human chỉnh sửa
+                          Human edit
                                 ↓
                           Final product
 ```
@@ -103,7 +103,38 @@
 #### AI in Maketing
 - This is a reality use case.
 - AI create many result, after enterprise testing about customer's rating ~ A/B testing.
-- AI can personalization advertisement, helps create many version more. 
+- AI can personalization advertisement, helps create many version more.
+
+### Writing
+- In smartphone, *autocorrect* and *auto-completion* are all supported by AI.
+- LLMs write good because they are trained to forecast/complete text.
+- ex: When use ChatGPT, user can:
+  - Decrease 40% completion time.
+  - Increase 18% output quality.
+#### AI in write for personal user
+- Many people use AI to communicate better.
+  - ex: When I write email, I often use AI to checking errors and fix it.
+- Content of AI can *interact with readers* because content building base on personal hobby of reader.
+
+#### AI in write applications
+- Google Docs, Notion, Gmail are all use AI helps user improve text.
+- **Grammarly** - a support write application, use model is fine-tune to make the content: more natural, more coherent, more clearly.
+
+#### AI can be misused
+- Write ability of AI can used wrong purpose.
+  - ex: 2023, The New York Times reports that Amazon s being flooded with low-quality, AI-generated travel guides. These books even feature: author biographies, websites, positive reviews, and are all created using AI.
+
+#### AI Writing in enterprise
+- In enterprise, AI support write used popular in: sales, marketing, internal communicate.
+- Many manager use AI to support write rating efficiency of staff report.
+- AI can support: write email cold outreach, write advertisement content, write product's describe.
+
+
+
+
+
+
+
 
                           
 
