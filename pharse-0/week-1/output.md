@@ -3,7 +3,7 @@
 ## Output
 
 ### AI Learning Map
-AILM.drawio.svg
+[AILM.drawio.svg](https://github.com/trnhwhoan/AI-Training/blob/main/pharse-0/week-1/AILM.drawio.svg)
 
 ### Explain the role of each book in 1–2 sentences
 - Book: Grokking Machine Learning: Builds a foundation in machine learning by explaining how models learn patterns from data.
