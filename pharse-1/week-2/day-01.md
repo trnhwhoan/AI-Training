@@ -1,6 +1,6 @@
 # AI-Training
 
-## Book: Grokking 
+## Book: Grokking Machine Learning
 ## Day 01
 
 ### Theory
