@@ -28,6 +28,7 @@
 - ex: Linear Regression can find parameters by least squares method, different Gradient Descent.
   -- y = wx + 30
 
+
 - Formula for calculating Absolute Error (AE):
   <img width="247" height="51" alt="image" src="https://github.com/user-attachments/assets/f66be0c8-139f-498e-a095-039c30da7e02" />
 
