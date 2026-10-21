@@ -1,7 +1,7 @@
 # AI-Training
 
 ## Book: Grokking Machine Learning
-## Day 3
+## Day 4
 
 ### Train/Test Split & Overfitting
 #### Why is it necessary to split data?
