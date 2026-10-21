@@ -32,4 +32,5 @@
 - In forecast time, future information does not yet exist. When used for training, the model might achieve a very high score, yet fail to function properly in real-world scenarios.
 - **Use only information that is actually available at the time the prediction is made.**
 
+**High Training Accuracy + Low Test Accuracy → Suspect Overfitting, Investigate Further.**
   
