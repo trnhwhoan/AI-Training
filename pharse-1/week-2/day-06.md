@@ -65,6 +65,13 @@ MAE = (1/n) × Σᵢ₌₁ⁿ |yᵢ − ŷᵢ|
 <img width="640" height="317" alt="image" src="https://github.com/user-attachments/assets/0afd61f6-27fe-45f5-9197-606327b35e63" />
 
 
+**Notes** 
+- Negative Signed Error: Predicted < Actual → The model’s prediction is lower than the actual value (Underprediction).
+
+- Positive Signed Error: Predicted > Actual → The model’s prediction is higher than the actual value (Overprediction).
+
+- Signed Error = 0: The prediction is equal to the actual value.
+
 
 
 
