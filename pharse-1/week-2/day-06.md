@@ -16,20 +16,28 @@
 | 4 | 111 | 123.79 |
 
 -> Error0 = |219 - 139.55| = 79.45
+
 -> Error1 = |70 - 179.52| = 109.52
+
 => Sample 0 predicted to be better sample 1, because *absolute error* smaller.
+
 - However, if there are too many test samples, it becomes impossible to perform the calculations by hand; this is where **MAE** comes in.
 
-### Mean Absolute Error (MAE)
+
+#### Mean Absolute Error (MAE)
 - **MAE** is a metric used to assess the discrepancy between the predicted values ​​and the actual values ​​of a model.
-$$
-MAE = \frac{1}{n}\sum_{i=1}^{n}\left|y_i - \hat{y}_i\right|
-$$
+
+
+MAE = (1/n) × Σᵢ₌₁ⁿ |yᵢ − ŷᵢ|
+
 - In there:
-  -- {n} - sample number evaluted
+  -- n - sample number evaluated
+  
   -- y_i - acture value
-  -- \hat{y}_i\ - model prediction value
-  -- |y_i - \hat{y}_i\right| - absolute error of sample {i}
+  
+  -- ŷᵢ - model prediction value
+  
+  -- |yᵢ − ŷᵢ| - absolute error of sample {i}
 
 - ex: Glowee have prediction spending model for 3 customers:
 
@@ -39,6 +47,26 @@ $$
 | B | 800 | 900 |
 | C | 300 | 250 |
 
--> MAE = $$ \frac{1}{3}\sum_{i=1}^{3}\left|500 - 450| $$
+-> MAE = (1/3) × Σ^3ᵢ₌₁ \ (|500-450|+|800-900|+|300-250|) ~ 66.67
+
+**Notes**:
+- MAE always not a negative number.
+- MAE is lower, the smaller the mean absolute error.
+- MAE = 0 -> exactly prediction
+- MAE has the same units as the target.
+
+
+#### Visualization
+- If you calculate the average of the signed errors, the positive and negative errors may cancel each other out. MAE addresses this issue by taking the absolute value before calculating the average.
+<img width="632" height="319" alt="image" src="https://github.com/user-attachments/assets/e5e4c7ed-b13d-403b-8d5e-2d4d5b8d7391" />
+
+<img width="634" height="321" alt="image" src="https://github.com/user-attachments/assets/56c587a3-6961-4924-8c0d-12f3e9bad469" />
+
+<img width="640" height="317" alt="image" src="https://github.com/user-attachments/assets/0afd61f6-27fe-45f5-9197-606327b35e63" />
+
+
+
+
+
 
 
