@@ -66,6 +66,9 @@ ex: Suppose the model predicts 3 orders for Glowee:
 
 <img width="291" height="234" alt="image" src="https://github.com/user-attachments/assets/ce4478a9-e9e0-42c8-a173-7672f9c6be3a" />
 
+Actually answer:
+<img width="245" height="85" alt="image" src="https://github.com/user-attachments/assets/79c961e7-65c0-4cf3-a8fa-1c5d0b877e73" />
+
 *Note: MSE is expressed in squared units, so it cannot be interpreted directly as the magnitude of the error.
 
 
