@@ -9,7 +9,7 @@
   
 - **Testing Data** - data is set aside to test the model's predictive capability on data it has not previously encountered.
 
-- ex: Glowee have 1.000 record about visits and revenue.
+- ex: Glowee have 1.000 records about visits and revenue.
   Divide the data as follows:
   
   <img width="610" height="169" alt="image" src="https://github.com/user-attachments/assets/e8a85a34-576e-4df2-bc12-c94d04fb19e5" />
@@ -21,7 +21,7 @@ Model learn on 800 samples, then evaluated on 200 samples.
   If we only evaluate a model on the data it has already learned from, we cannot know whether it will perform well on new data.
 
 #### Underfitting
-- **Underfitting** happen when model too simple to learn the true law of data.
+- **Underfitting** happens when model too simple to learn the true law of data.
 
 - ex: Glowee's revenue increase follow visits but tends to curve, while model only try to fit it using a simple straight line.
 
@@ -36,7 +36,7 @@ Model learn on 800 samples, then evaluated on 200 samples.
     -- Model has not yet learned enough patterns from the data
 
 #### Overfitting
-- **Overfitting** happen when model learn too close training data, even including *noise* or the details lack any discernible pattern.
+- **Overfitting** happens when model learn too close training data, even including *noise* or the details lack any discernible pattern.
 
 <img width="729" height="470" alt="image" src="https://github.com/user-attachments/assets/4c112b84-bd72-404c-99cc-047477033764" />
 
