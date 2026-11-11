@@ -27,6 +27,7 @@ Model learn on 800 samples, then evaluated on 200 samples.
   <img width="394" height="330" alt="image" src="https://github.com/user-attachments/assets/27aa114a-ea70-456f-841e-78c3d5f51727" />
 
   Common signs:
+  
     -- Training Error high
   
     -- Testing Error high
@@ -38,12 +39,13 @@ Model learn on 800 samples, then evaluated on 200 samples.
 
 <img width="729" height="470" alt="image" src="https://github.com/user-attachments/assets/4c112b84-bd72-404c-99cc-047477033764" />
 
-  Common signs:
-    -- Training Error low
+Common signs:
+
+  -- Training Error low
    
-    -- Testing Error significantly higher
+  -- Testing Error significantly higher
     
-    -- Model generalize difficult on new data
+  -- Model generalize difficult on new data
 
   #### Compare Underfitting and Overfitting
 
