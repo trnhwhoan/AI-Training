@@ -1,4 +1,4 @@
-<img width="610" height="169" alt="image" src="https://github.com/user-attachments/assets/d4fd70c8-254d-4d31-b15d-5c9769326b9f" /># AI-Training
+# AI-Training
 
 ## Book: Grokking Machine Learning
 ## Week 3 - Day 3
@@ -28,7 +28,9 @@ Model learn on 800 samples, then evaluated on 200 samples.
 
   Common signs:
     -- Training Error high
+  
     -- Testing Error high
+  
     -- Model has not yet learned enough patterns from the data
 
 #### Overfitting
@@ -38,7 +40,9 @@ Model learn on 800 samples, then evaluated on 200 samples.
 
   Common signs:
     -- Training Error low
+   
     -- Testing Error significantly higher
+    
     -- Model generalize difficult on new data
 
   #### Compare Underfitting and Overfitting
