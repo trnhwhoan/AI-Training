@@ -24,6 +24,7 @@ Model learn on 800 samples, then evaluated on 200 samples.
 - **Underfitting** happen when model too simple to learn the true law of data.
 
 - ex: Glowee's revenue increase follow visits but tends to curve, while model only try to fit it using a simple straight line.
+
   <img width="394" height="330" alt="image" src="https://github.com/user-attachments/assets/27aa114a-ea70-456f-841e-78c3d5f51727" />
 
   Common signs:
