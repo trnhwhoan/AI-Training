@@ -25,8 +25,8 @@ Build and compare regression models to predict diabetes progression using the Sc
 
 #### Results
 
-| Model | MAE | MSE | R^2 Score |
-| --- | --- | --- |
+| Model | MAE | MSE | R² Score |
+|:---|---:|---:|---:|
 | Linear Regression | 42.7941 | 2900.1936 | 0.4526 |
 | Ridge Regression | 42.9969 | 2856.4869 | 0.4609 |
 | Lasso Regression | 42.8318 | 2878.5594 | 0.4567 |
