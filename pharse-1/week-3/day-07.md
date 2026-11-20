@@ -24,10 +24,18 @@ Build and compare regression models to predict diabetes progression using the Sc
 - R^2 Score
 
 #### Results
-https://colab.research.google.com/drive/1drnvBaLUlfKttFqllOCssRiFzHE3rhaq?hl=vi#scrollTo=JMC9rvY70q8l
+
+| Model | MAE | MSE | R^2 Score |
+| --- | --- | --- |
+| Linear Regression | 42.7941 | 2900.1936 | 0.4526 |
+| Ridge Regression | 42.9969 | 2856.4869 | 0.4609 |
+| Lasso Regression | 42.8318 | 2878.5594 | 0.4567 |
+
 
 #### Conclusion
+Ridge Regression achieved the lowest MSE and highest R² score among the three tested models, while Linear Regression achieved the lowest MAE.
 
+The results show that regularization can improve some evaluation metrics, but it does not necessarily outperform the baseline model in every metric.
 
 
 
